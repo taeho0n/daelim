@@ -3,8 +3,12 @@
 conflict
 
 -충돌 
-local에서 4주차 파일 편집
 
+When two people work together, a conflict occurs because they touch the same file.
+
+
+
+J to go up in the editor, K to go down, Q to exit
 
 2교시
 
