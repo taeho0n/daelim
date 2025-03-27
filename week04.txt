@@ -7,11 +7,6 @@ Solution
 Combine both or remove one of them
 Combine both-> merge
 
-Remove one of the two -> Remove the desired part from the conflicted part either remotely or locally
-
-자동 merge가 되는 경우
-
-
 -git command
 log --oneline
 log --oneline --graph
@@ -23,5 +18,13 @@ oneline command -> If the commit is long, only the hash code and commit message 
 
 2교시
 conflict 복습
+
+Remove one of the two -> Remove the desired part from the conflicted part either remotely or locally
+
+-In case of automatic merge (if the files are not of the same series)
+After modifying README.md remotely and committing, and modifying week04.txt locally and committing, 
+if you try to push, the same rejected conflict occurs, and then you do git pull, in all cases, 
+the auto merge failure error does not appear and it is possible right away.
+
 
 3교시
