@@ -8,3 +8,5 @@ commit -m "커밋메세지"
 log
 checkout <해시코드전체 or 7자리> -> 커밋하기 이전으로
 checkout - ->현재로
+branch -M main
+git remote add origin https://github.com/사용자아이디/원격리포지토리이름.git

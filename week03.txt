@@ -1,0 +1,19 @@
+3주차
+1교시
+IDE(파이참) git bash 터미널 연결
+Settings -> Tools -> Terminal -> Shell path
+bash 선택
+
+git 명령어
+remote -v
+
+.gitignore 이해
+
+2교시
+소수 판정 프로그램 컨버전
+
+3교시
+git 명령어
+clone  "가져올 원격 리포지토리 주소"  -> clone하는 코드에 폴더를 만듦.
+clone  "가져올 원격 리포지토리 주소" . -> 현재 폴더에 가져옴.
+remote remove origin
