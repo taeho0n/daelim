@@ -1,12 +1,20 @@
 4주차
 1교시
 -Conflict
-Conflict between remotely modified and locally modified
+Occurs when the remote modification is different from the local modification
 
-conflict 해결방법
+Solution
+Combine both or remove one of them
+Combine both-> merge
 
--git 명령어
+Remove one of the two -> Remove the desired part from the conflicted part either remotely or locally
+
+자동 merge가 되는 경우
+
+
+-git command
 log --oneline
+log --oneline --graph
 
 J to go up in the editor, K to go down, Q to exit
 
@@ -14,5 +22,6 @@ J to go up in the editor, K to go down, Q to exit
 oneline command -> If the commit is long, only the hash code and commit message are briefly displayed.
 
 2교시
+conflict 복습
 
 3교시
