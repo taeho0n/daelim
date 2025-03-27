@@ -1,14 +1,17 @@
 4주차
 1교시
-conflict
+-Conflict
+Conflict between remotely modified and locally modified
 
--충돌 
+conflict 해결방법
 
-When two people work together, a conflict occurs because they touch the same file.
-
-
+-git 명령어
+log --oneline
 
 J to go up in the editor, K to go down, Q to exit
+
+
+oneline command -> If the commit is long, only the hash code and commit message are briefly displayed.
 
 2교시
 
