@@ -17,7 +17,7 @@ J to go up in the editor, K to go down, Q to exit
 oneline command -> If the commit is long, only the hash code and commit message are briefly displayed.
 
 2교시
-conflict 복습
+conflict review
 
 Remove one of the two -> Remove the desired part from the conflicted part either remotely or locally
 
@@ -28,3 +28,10 @@ the auto merge failure error does not appear and it is possible right away.
 
 
 3교시
+파이썬 function
+파이참 ide상에서 conflict 해결
+
+git 명령어
+git pull
+fetch
+
